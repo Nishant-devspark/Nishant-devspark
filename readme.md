@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+Science+engineer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Web+Devloper" /></a>
 </p>
 
    <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
@@ -20,7 +20,7 @@
   </a>
 
 - 👋 Hi, I’m Nishant
-- 💼 I'm a Data Scientist at Dubai Holding
+- 💼 I'm a Web Devloper
 - 💬 Talk to me about freelancing opportunities in data science and software engineering
 - 👯 I’m looking to collaborate on backend software engineering projects
 
@@ -109,6 +109,6 @@
 
 ---
 
-Credit: [aastha12](https://github.com/aastha12)
+Credit: [Nishant-devspark](https://github.com/aastha12)
 
 Last Edited on: 19/10/2021
